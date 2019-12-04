@@ -20,6 +20,12 @@ Place:
 
 _Thursday, Dec 5, from 1 - 3 pm at Snell Library 123 at Northeastern University_ 
 
+Northeastern University Campus Map [https://www.northeastern.edu/campusmap/printable/campusmap.pdf](https://www.northeastern.edu/campusmap/printable/campusmap.pdf)  
+
+or
+
+[https://www.northeastern.edu/neuhome/about/maps.html](https://www.northeastern.edu/neuhome/about/maps.html)    
+
 
 If you run a notebook and it tells you that you are missing a library 
 
