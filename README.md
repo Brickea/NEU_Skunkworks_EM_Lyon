@@ -21,5 +21,32 @@ Place:
 Thursday, Dec 5, from 1 - 3 pm at Snell Library 123 at Northeastern University
 
 
+If you run a notebook and it tells you that you are missing a library 
+
+Use pip install or conda install if missing a library
 
 
+You will need to install H2O.ai Automl for python to run notebook two. 
+
+
+```bash
+
+pip install requests
+pip install tabulate
+pip install "colorama>=0.3.8"
+pip install future
+
+pip uninstall h2o
+
+
+pip install -f http://h2o-release.s3.amazonaws.com/h2o/latest_stable_Py.html h2o
+
+```
+
+Note: When installing H2O from pip in OS X El Capitan, users must include the --user flag.
+
+```bash
+pip install -f http://h2o-release.s3.amazonaws.com/h2o/latest_stable_Py.html h2o --user
+```
+
+See Downloading & Installing H2O [http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html)  
