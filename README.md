@@ -16,3 +16,10 @@ This workshop has two notebooks:
 * Predicting Ad Lift with an Ensemble of Machine Learning Algorithms  
 
 
+Place:
+
+Thursday, Dec 5, from 1 - 3 pm at Snell Library 123 at Northeastern University
+
+
+
+
