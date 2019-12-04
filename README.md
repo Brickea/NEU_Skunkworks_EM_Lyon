@@ -18,7 +18,7 @@ This workshop has two notebooks:
 
 Place:
 
-Thursday, Dec 5, from 1 - 3 pm at Snell Library 123 at Northeastern University
+_Thursday, Dec 5, from 1 - 3 pm at Snell Library 123 at Northeastern University_ 
 
 
 If you run a notebook and it tells you that you are missing a library 
@@ -50,3 +50,17 @@ pip install -f http://h2o-release.s3.amazonaws.com/h2o/latest_stable_Py.html h2o
 ```
 
 See Downloading & Installing H2O [http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html)  
+
+
+_Northeastern University Guest Wireless_  
+
+NUwave-guest: The open wireless network for Northeastern guests and requires registration. 
+
+See NUwave-Guest
+
+[https://service.northeastern.edu/tech?id=tech_service&sys_id=e6f49ccbdbc3b700a37cd206ca96193b](https://service.northeastern.edu/tech?id=tech_service&sys_id=e6f49ccbdbc3b700a37cd206ca96193b)  
+
+
+
+
+
